@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713783247192" clover="3.2.0">
+  <project timestamp="1713783247192" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1" elements="33" coveredelements="33" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="/workspaces/tester-js/main.js">
+      <metrics statements="13" coveredstatements="13" conditionals="19" coveredconditionals="19" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="6" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="5" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

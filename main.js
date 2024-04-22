@@ -23,3 +23,7 @@ function checkTriangleType(side1, side2, side3) {
 }
 
 module.exports = checkTriangleType;
+
+
+// npx jest
+// npm run test
